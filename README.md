@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm just getting started with GitHub and the stuff you can do here 😄
+
 <!--
 **frey-daniel/frey-daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
